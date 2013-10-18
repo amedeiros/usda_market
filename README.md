@@ -28,13 +28,14 @@ api = UsdaMarket::Api.new(zip: 33558)
 ```ruby
 api = UsdaMarket::Api.new() => ArugmentError 'Missing argument zip'
 ```
+
 ## Return names
 Returns the markets id and name in an array of hashes
 ```ruby
 api     = UsdaMarket::Api.net(zip: 33558)
 results = api.return_names
 results => [{"id"=>"20049", "marketname"=>"2.8 Cheyennes Country Thangs "}]
-```ruby
+```
 
 ## Return all
 Return all the farmers market information as an array of hashes. ID, Market name, Address, Google Link, Products and Schedule
