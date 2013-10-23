@@ -1,6 +1,6 @@
 # Usda Market
 
-Usda Market is a ruby gem for using the USDA's farmers market directory api. For more information on this api see their documentation [here](http://search.ams.usda.gov/farmersmarkets/v1/svcdesc.html)
+Usda Market is a ruby gem for using the USDAs farmers market directory api. For more information on this api see their documentation [here](http://search.ams.usda.gov/farmersmarkets/v1/svcdesc.html)
 
 ## Installation
 
