@@ -46,7 +46,7 @@ results => [{"id"=>"20049", "marketname"=>"2.8 Cheyennes Country Thangs ", "Addr
 ```
 
 ## Author
-Andrew Medeiros, amedeiros0920@gmail.com, @_AndrewMedeiros
+Andrew Medeiros, andrew@amedeiros.com, @_AndrewMedeiros
 
 ## Contributing
 
